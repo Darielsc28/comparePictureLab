@@ -1,4 +1,4 @@
-Outil vibe codé, clairement imparfait et sujet à nombreuse amélioration.
+Outil vibe codé, clairement imparfait et sujet à nombreuses améliorations.
 
 # Comparaison Pièces
 Outil HTML autonome pour comparer finement **une paire** de photos de pièces horlogères avant/après essai de laboratoire.
